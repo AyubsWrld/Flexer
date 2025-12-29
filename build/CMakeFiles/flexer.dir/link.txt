@@ -1,0 +1,1 @@
+/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/flexer.dir/link.d CMakeFiles/flexer.dir/src/main.cpp.o -o flexer  /usr/lib/libclang-cpp.so.21.1 /usr/lib/libLLVM.so.21.1
